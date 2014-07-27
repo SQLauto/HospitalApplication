@@ -21,3 +21,10 @@ D:\yedek\Projeler\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.C
 C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\bin\Debug\Hospital.exe.config
 C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\obj\Debug\Hospital.exe
 C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\obj\Debug\Hospital.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\bin\Debug\Hospital.exe
+C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\bin\Debug\Hospital.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\obj\Debug\Hospital.Form1.resources
+C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\obj\Debug\Hospital.Form2.resources
+C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache

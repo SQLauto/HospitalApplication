@@ -161,7 +161,16 @@ namespace Hospital
                     }
                     else
                     {
-                        pictureBox1.Image = Image.FromFile(@"" + doctors[i].Image);
+                        try
+                        {
+                            pictureBox1.Image = Image.FromFile(@"" + doctors[i].Image);
+                        }
+                        catch (Exception)
+                        {
+
+                            MessageBox.Show("Image not found!");
+                        }
+                        
                     }
                 }
             }
