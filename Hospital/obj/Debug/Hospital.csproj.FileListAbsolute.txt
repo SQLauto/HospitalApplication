@@ -18,3 +18,6 @@ D:\yedek\Projeler\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
 D:\yedek\Projeler\Hospital\Hospital\obj\Debug\Hospital.Form2.resources
 D:\yedek\Projeler\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
 D:\yedek\Projeler\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\obj\Debug\Hospital.exe
+C:\Users\-ZaferAYAN-\Documents\GitHub\HospitalApplication\Hospital\obj\Debug\Hospital.pdb
