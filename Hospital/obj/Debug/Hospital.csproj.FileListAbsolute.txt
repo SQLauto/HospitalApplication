@@ -1,0 +1,20 @@
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\Hospital\Hospital\bin\Debug\Hospital.exe.config
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\Hospital\Hospital\bin\Debug\Hospital.exe
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\Hospital\Hospital\bin\Debug\Hospital.pdb
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\Hospital\Hospital\obj\Debug\Hospital.exe
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Hospital\Hospital\obj\Debug\Hospital.Form2.resources
+D:\yedek\Projeler\Hospital\Hospital\bin\Debug\Hospital.exe.config
+D:\yedek\Projeler\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\yedek\Projeler\Hospital\Hospital\obj\Debug\Hospital.pdb
+D:\yedek\Projeler\Hospital\Hospital\bin\Debug\Hospital.exe
+D:\yedek\Projeler\Hospital\Hospital\bin\Debug\Hospital.pdb
+D:\yedek\Projeler\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+D:\yedek\Projeler\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+D:\yedek\Projeler\Hospital\Hospital\obj\Debug\Hospital.Form2.resources
+D:\yedek\Projeler\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+D:\yedek\Projeler\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
