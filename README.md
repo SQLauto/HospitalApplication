@@ -1,7 +1,7 @@
 HospitalApplication
 ===================
 
-WinForm Application for hospital related business
+WinForm Application for hospital related business. Users can add ourselves to system, delete and fetch another personnel.
 
 Screenshots
 
